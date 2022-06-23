@@ -1,0 +1,20 @@
+dic_sku = {
+    'Case estojo bag para fones de ouvido KZ': 22,
+    'Fone de ouvido QKZ ak6 preto': 21,
+    'Fone de Ouvido Kz EdxCinza Transparente C/Mic': 20,
+    'Fone De Ouvido Kz Zsn ProSem microfone': 25,
+    'Fone de Ouvido Kz DQ6Preto s/mic': 40,
+    'Fone de Ouvido Kz EdxPreto S/Mic': 13,
+    'Kit pasta térmica GD900 4.8 w/m-k 1g 3 unidades1 Grama (3 a 4 aplicações)': 30,
+    'Cabo para fone de ouvido KZ tipo C para zsn, zsn pro, zs10 pro, as12, as16 (sem mic)': 11,
+    'Fone de ouvido KZ EDX ProPreto,Sem microfone': 34,
+    'Fone de Ouvido Kz EdxPreto  C/Mic': 14,
+    'Kit pasta térmica GD900 4.8 w/m-k 1g1 Grama (3 a 4 aplicações)': 30,
+    'Pasta térmica GD900 4.8 w/m-k 1g1 Grama (3 a 4 aplicações)': 30,
+    'Fone de ouvido KZ EDX ProTransparente,Sem microfone': 35,
+    'Fone de Ouvido Kz EdxCinza S/Mic': 19,
+    'Fone de Ouvido Kz EdxTransparente S/Mic': 17,
+    'Fone de Ouvido Kz EdxTransparente C/Mic': 18,
+    'Fone de Ouvido Kz EdxCinza C/Mic': 20,
+    'Fone de ouvido KZ EDX ProTransparente,Com microfone': 37
+}
